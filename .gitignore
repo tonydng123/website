@@ -2,4 +2,4 @@
 
 .unwanted_DS_Store
 *~
-tmp/
+tmp/.DS_store
