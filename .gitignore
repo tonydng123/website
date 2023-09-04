@@ -1,0 +1,5 @@
+~/repos/website/.gitignore
+
+.unwanted_DS_Store
+*~
+tmp/
